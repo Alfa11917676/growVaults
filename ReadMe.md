@@ -10,7 +10,7 @@
 - Stay Calm and watch: After depositing, stay relaxed and watch more people interacting with the vault thus increasing your share's value.
 - Withdraw: Once the you feel, you have got enough profit go to withdraw and burn the vault shares for tokens worth the amount of shares you burnt.
 ## 🤔 Problem Statement
-💡 Most coins in ICOs and meme coins need help with value retention due to their reliance on social momentum and lack of financial incentives. This volatility necessitates strategies for long-term holding and stability.
+Most coins in ICOs and meme coins need help with value retention due to their reliance on social momentum and lack of financial incentives. This volatility necessitates strategies for long-term holding and stability.
 <br>
 These coins often need help maintaining value, mainly stemming from a lack of inherent utility or financial incentives to hold them. Unlike more established cryptocurrencies, which may offer staking, governance, or other value-generating activities, meme coins typically operate on the principle of social momentum. 
 <br>
