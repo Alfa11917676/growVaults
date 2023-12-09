@@ -6,7 +6,7 @@
 🚀 This vault is designed to grow the LP's price overtime with increase in interaction of the vault. This vault is designed to incentivise people who are interested in staying staked and penalise who wants to pump and dump the token.
 
 ## 🚀 How It Works
-- Deposit: 🆕 Users deposit the tokens on the vault at a given price, for which they will receive vault shares worth same minus the protocol tax.
+- Deposit: Users deposit the tokens on the vault at a given price, for which they will receive vault shares worth same minus the protocol tax.
 - Stay Calm and watch: After depositing, stay relaxed and watch more people interacting with the vault thus increasing your share's value.
 - Withdraw: Once the you feel, you have got enough profit go to withdraw and burn the vault shares for tokens worth the amount of shares you burnt.
 ## 🤔 Problem Statement
