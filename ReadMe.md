@@ -19,7 +19,11 @@ For more info, refer this GitBook:
 https://alfatitas747ray.gitbook.io/arch_vault/
 
 ## ✅ Solution
-🌉 Arch's Vaults stand apart from traditional bespoke per-project specific staking pools primarily through its dynamic fee structure and self-funding nature. While traditional staking pools often offer a flat rate of return and may require external funding sources to maintain those returns, Arch's Vault Vaults use entry and exit fees to create a collective pool of assets that benefits all stakers. This model is particularly suited for meme coins, as it synergizes well with social momentum to sustainably increase the vault token's asset-backed value. The vault also employs a linearly decreasing exit fee and other yield-boosting strategies like an immutable vesting schedule, which can incentivize long-term holding and discourage early exits.
+🌉 Arch's Vaults stand apart from traditional bespoke per-project specific staking pools primarily through its dynamic fee structure and self-funding nature. 
+<br>
+While traditional staking pools often offer a flat rate of return and may require external funding sources to maintain those returns, Arch's Vault Vaults use entry and exit fees to create a collective pool of assets that benefits all stakers. 
+<br>
+This model is particularly suited for meme coins, as it synergizes well with social momentum to sustainably increase the vault token's asset-backed value. The vault also employs a linearly decreasing exit fee and other yield-boosting strategies like an immutable vesting schedule, which can incentivize long-term holding and discourage early exits.
 
 ## 🛠 Tech Stack
 - Frontend: 🖥 React, Ethers.js
