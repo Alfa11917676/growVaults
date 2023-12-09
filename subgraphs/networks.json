@@ -1,0 +1,8 @@
+{
+  "goerli": {
+    "Vault": {
+      "address": "0x0eb7e8ca5ceda668b2a735c5e2a94111e6c1c872",
+      "startBlock": 9921994
+    }
+  }
+}

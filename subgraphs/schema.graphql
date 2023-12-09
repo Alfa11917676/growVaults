@@ -1,0 +1,7 @@
+type LPPrice @entity(immutable: true) {
+  id: Bytes!
+  price: BigInt! # uint256
+  assetsLocked: BigInt! # uint256
+  assetsMinted: BigInt! # uint256
+  blockNumber: BigInt!
+}
